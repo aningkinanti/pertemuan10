@@ -60,17 +60,17 @@ print(95*"=")
 Dibawah ini merupakan hasil output dari syntax diatas:
 
 ##### OUTPUT MENU TAMBAH
-![output](ssPraktikum/tambahdata.PNG) <br>
+![tambah](ssPraktikum/tambahdata.PNG) <br>
 •	User akan diminta memilih menu, pertama silahkan pilih menu tambah (T)/(t). <br>
 •	Maka program akan berjalan seperti pada gambar diatas. Disini saya mencoba menambahkan 2 data mahasiswa. <br>
 
 ##### OUTPUT MENU LIHAT
-![output](ssPraktikum/lihatdata.PNG) <br>
+![lihat](ssPraktikum/lihatdata.PNG) <br>
 •	User dapat melihat data yang telah ditambahkan, dengan memilih menu lihat (L)/(l). <br>
 •	Maka program akan menampilkan data yang telah ditambahkan seperti pada gambar diatas. <br>
 
 ##### OUTPUT MENU UBAH
-![output](ssPraktikum/ubahdata.PNG) <br>
+![ubah](ssPraktikum/ubahdata.PNG) <br>
 •	User dapat mengubah data yang telah diinput, dengan memilih menu ubah (U)/(u). <br>
 •	User akan diminta memasukan data nama mahasiswa yang akan diubah. <br>
 •	Kemudian apabila data tersebut ditemukan, program akan menampilkan data lengkap mahasiswa tersebut. <br>
@@ -79,15 +79,16 @@ Dibawah ini merupakan hasil output dari syntax diatas:
 •	Seperti pada gambar diatas saya mencoba mengubah data Nama Kinan menjadi Kinanti. <br>
 •	Lalu user dapat mengecek kembali data yang telah diubah dengan menu lihat. <br>
 
-##### OUTPUT MENU UBAH
-![output](ssPraktikum/ubahdata.PNG) <br>
-•	User dapat mengubah data yang telah diinput, dengan memilih menu ubah (U)/(u). <br>
-•	User akan diminta memasukan data nama mahasiswa yang akan diubah. <br>
+##### OUTPUT MENU CARI
+![cari](ssPraktikum/caridata.PNG) <br>
+•	User dapat mencari data mahasiswa berdasarkan nama, dengan memilih menu cari (C)/(c). <br>
+•	User akan diminta memasukan data nama mahasiswa yang akan dicari. <br>
 •	Kemudian apabila data tersebut ditemukan, program akan menampilkan data lengkap mahasiswa tersebut. <br>
-•	Lalu program akan memberikan pilihan kepada user data apa yang akan diubah. <br>
-•	Maka program akan menampilkan data yang telah ditambahkan seperti pada gambar diatas. <br>
-•	Seperti pada gambar diatas saya mencoba mengubah data Nama Kinan menjadi Kinanti. <br>
-•	Lalu user dapat mengecek kembali data yang telah diubah dengan menu lihat. <br>
+
+##### OUTPUT MENU HAPUS
+![output](ssPraktikum/hapusdata.PNG) <br>
+•	User dapat menghapus data mahasiswa berdasarkan nama, dengan memilih menu hapus (H)/(h). <br>
+•	User akan diminta memasukan data nama mahasiswa yang akan dihapus. <br>
 
 #### ANALISIS
 •	Proses input data terjadi pada syntax dibawah ini :
