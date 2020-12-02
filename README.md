@@ -60,7 +60,7 @@ print(95*"=")
 Dibawah ini merupakan hasil output dari syntax diatas:
 
 ##### OUTPUT MENU TAMBAH
-![output](ssPraktikum/tambahdata.PNG)
+![output](ssPraktikum/tambahdata.PNG) <br>
 •	User akan diminta memilih menu, pertama silahkan pilih menu tambah (T)/(t).  Maka program akan berjalan seperti pada gambar diatas. Disini saya mencoba menambahkan 2 data mahasiswa <br>
 
 #### ANALISIS
