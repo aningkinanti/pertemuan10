@@ -12,36 +12,50 @@
 #### SOAL
 ![soal](ssLatihan/soal.PNG)
 
-#### SYNTAX
+#### SYNTAX DAN PENJELASAN
 berikut merupakan syntax untuk menampilkan program diatas
 
+• Statement dibawah ini berfungsi untuk menghitung nilai a. <br>
 ```python
 #author aning kinanti
 
 #mengubah def a(x): ke lambda
 a = (lambda x: x ** 2)
 print(a(5))
+```
+Rumus `lambda x: x ** 2` dengan ** berfungsi untuk pangkat dan 2 berfungsi sebagai nilai pangkat. <br>
+Maka jika x adalah 5 seperti pada statement `print(a(5))` hasilnya akan menjadi 25 karena 5 pangkat 2 = 25. <br>
 
+• Statement dibawah ini berfungsi untuk menghitung nilai b. <br>
+```python
 #mengunbah def b(x, y): ke lambda
 b = (lambda x, y: x**2 + y**2)
 print(b(3,6))
+```
+Rumus `lambda x, y: x**2 + y**2` dengan ** berfungsi untuk pangkat dan 2 berfungsi sebagai nilai pangkat. <br>
+Maka jika  adalah x=3 dan y=6 seperti pada statement `print(b(3,6))` hasilnya akan menjadi 45 karena 3 pangkat 2 + 6 pangkat 2 = 9 + 36 = 45. <br>
 
+• Statement dibawah ini berfungsi untuk menghitung nilai c. <br>
+```python
 #mengubah def c(*args): ke lambda
 c = (lambda *args: sum(args)/ len(args))
-print(c(3)) 
+print(c(3))
+```
+statement tersebut akan menghasilkan ouput menjadi bilangan desimal. <br>
 
+• Statement dibawah ini berfungsi untuk memproses nilai d. <br>
+```python
 #mengubah def d(s): ke lambda
 d = (lambda s: "".join(set(s)))
 print(d("abcde"))
 ```
+statement tersebut akan menghasil output menjadi nilai acak. <br>
 
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
 ![output](ssLatihan/output.PNG)
 
-#### ANALISIS
-•	Belum
 
 ## TUGAS PRAKTIKUM 
 
